@@ -1,2 +1,2 @@
 # PINGO
-Code for PINGO.
+Code for PINGO submission.
